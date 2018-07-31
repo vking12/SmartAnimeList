@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SmartAnimeList</string>
+    <string name="TitlePswd">Welcome!</string>
+    <string name="TitlePswdDescr">In order to access the resources of this app you will need the secret password.</string>
+    <string name="SignInButton">Sign in</string>
+    <string name="PasswordText">Enter password...</string>
+    <string name="TitleHome">Top of All-Time</string>
 </resources>
